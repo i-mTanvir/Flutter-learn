@@ -9,7 +9,7 @@ void main() {
         backgroundColor: const Color.fromARGB(255, 80, 96, 104),
         title: const Center(
           child: Text(
-            "I am rich.",
+            "I am rich. 1",
             style: TextStyle(color: Colors.white),
           ),
         ),
